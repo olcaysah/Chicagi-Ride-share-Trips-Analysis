@@ -1,2 +1,2 @@
-# Chicagi-Ride-share-Trips-Analysis
+# Chicago-Ride-share-Trips-Analysis
 Chicago ride-share trip analysis
